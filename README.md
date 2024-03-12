@@ -1,3 +1,3 @@
 # flutter_todo_app_1
 
-A new Flutter project.
+A Simple flutter todo app I made for practice
